@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "img": "https://adsdentalhospitals.com/resources/front-theme/images/doctor-5.jpg",
+        "name": "Dr. John Melborn",
+        "expertize": "Prosthodontics Dentist"
+    },
+    {
+        "id": 2,
+        "img": "https://mymjl33n2pimgtxm2i31wwwc-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/female-associate-dentist-ltr-1024x512.jpg",
+        "name": "Dr. Ena Dicrosa",
+        "expertize": "Aesthetic Dentistry"
+    },
+    {
+        "id": 3,
+        "img": "https://www.hcrlaw.com/wp-content/uploads/2020/04/I-am-a-Dentist-_blog.jpg",
+        "name": "Dr. Ronnie Aaron",
+        "expertize": "Gastroenterologists"
+    }
+]
