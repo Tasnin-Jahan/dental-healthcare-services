@@ -9,7 +9,10 @@ const Services = () => {
     useEffect(() => {
         fetch('./servicce.json')
             .then(res => res.json())
-            .then(data => setServices(data));
+            .then(data => {
+                console.log(data);
+                setServices(data)
+            });
     }, [])
     return (
         <div id="services">
